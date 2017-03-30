@@ -163,7 +163,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   limitScanningByTime: 1
-  scanTime: 3
+  scanTime: 10
   defaultMaterial: {fileID: 2100000, guid: ddc2ff62e97ce6d41991784c3aa8e233, type: 2}
   secondaryMaterial: {fileID: 2100000, guid: e4713e3cd44887747905c4941872255c, type: 2}
   minimumFloors: 3
@@ -367,7 +367,7 @@ Prefab:
         type: 2}
       propertyPath: RoomModel
       value: 
-      objectReference: {fileID: 100012, guid: 21666c3d03110274a9915f6c29f6fad1, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 114000011154029958, guid: 2ed75ffdf9031c94e8bce4b3d17b9928,
         type: 2}
       propertyPath: autoStartObserver
